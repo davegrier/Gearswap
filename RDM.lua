@@ -88,7 +88,7 @@ function init_gear_sets()
     sets.midcast.FastRecast = {
         head="Atrophy Chapeau",ear2="Loquacious Earring",
         body="Vitivation Tabard",hands="Helios Gloves",ring1="Prolix Ring",ring2="Weatherspoon Ring",
-        back="Swith Cape",waist="Witful Belt",legs="Helios Spats",feet="Helios Boots"}
+        back="Swith Cape",waist="Goading Belt",legs="Helios Spats",feet="Helios Boots"}
 
     sets.midcast.Cure = {main="Tamaxchi",sub="Genbu's Shield",
         head="Vitivation Chapeau",neck="Noetic Torque",ear1="Roundel Earring",ear2="Lifestorm Earring",
@@ -153,7 +153,7 @@ function init_gear_sets()
     -- Sets to return to when not performing an action.
     
     -- Resting sets
-    sets.resting = {main="Pluto Staff",
+    sets.resting = {main="Pluto's Staff",
         head="Vitivation Chapeau",neck="Wiglen Gorget",
         body="Atrophy Tabard",hands="Serpentes Cuffs",ring1="Sheltered Ring",ring2="Paguroidea Ring",
         waist="Austerity Belt",legs="Nares Trews",feet="Chelona Boots +1"}
