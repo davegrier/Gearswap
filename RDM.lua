@@ -86,7 +86,7 @@ function init_gear_sets()
     -- Midcast Sets
     
     sets.midcast.FastRecast = {
-        head="Atrophy Chapeau",ear2="Loquacious Earring",
+        head="Atrophy Chapeau",neck="Orunmila's Torque",ear2="Loquacious Earring",
         body="Vitivation Tabard",hands="Helios Gloves",ring1="Prolix Ring",ring2="Weatherspoon Ring",
         back="Swith Cape",waist="Goading Belt",legs="Helios Spats",feet="Helios Boots"}
 
